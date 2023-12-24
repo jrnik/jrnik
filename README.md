@@ -1,4 +1,4 @@
-👋 Hi, I’m @jrnik - 🚢ing voicenotes.com
+👋 Hi, I’m @jrnik - 🚢ing [voicenotes.com](https://voicenotes.com/)
 
 <!---
 jrzylo95/jrzylo95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
